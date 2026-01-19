@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </div>
 
-<h1 align="center">Hi there, I'm <span style="color:#7b68ee">Kaiwen</span> (或者填你的名字) 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#7b68ee">Yifei Wang</span> 👋</h1>
 
 <div align="center">
    <a href="https://github.com/GUWYDS">
