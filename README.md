@@ -12,10 +12,10 @@
    <a href="https://github.com/GUWYDS">
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:你的邮箱@example.com">
+  <a href="ksish175@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=你的ID">
+  <a href="https://yifei.github.io/">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
   </a>
 </div>
