@@ -14,7 +14,7 @@
 | :--- | :--- |
 | **GitHub** | [github.com/GUWYDS](https://github.com/GUWYDS) |
 | **Email** | [ksish175@gmail.com](mailto:ksish175@gmail.com) |
-| **Website** | [yifei.github.io](https://yifei.github.io/) |
+| **Website** | [yifei.github.io](https://guwyds.github.io/) |
 
 </div>
 
